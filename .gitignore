@@ -1,0 +1,8 @@
+.settings/
+build/
+nbproject/
+web/css/
+web/fonts/
+build.xml
+.classpath
+.project
